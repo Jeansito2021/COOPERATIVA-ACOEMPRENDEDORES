@@ -1,9 +1,14 @@
-# Mapali 2023 🗺️
-
-Desarrollo de un sitio web con temática turística para la materia de Desarrollo de Software para computadoras adaptables, echas para el uso de el CDB y la UDB.
+# Cooperativa-Marce 💱
+Sistema de Información que permitirá optimizar el registro y control de empleados, clientes, transacciones y productos financieros.
 
 ## Pre-requisitos de su uso.🗒️🖋️
-Para poder usar el sitio web es necesario tener una computadora con sistema operativo windows o macOS con acceso a internet, además de tener un sistema operativo adaptable.
+Servidor y almacenamiento: Se debe contar con un servidor dedicado o en la nube con capacidad suficiente para alojar la base de datos y la aplicación.
+
+Base de datos: Se debe seleccionar un gestor de base de datos relacional, como MySQL o PostgreSQL, y definir la estructura de datos según las necesidades del sistema.
+
+Lenguaje de programación: El backend se desarrollará en Java con Spring Boot, por lo que es necesario contar con un entorno de desarrollo compatible, como IntelliJ IDEA o Eclipse.
+
+Contenedorización y despliegue: Es necesario instalar Docker y Kubernetes para la gestión y escalabilidad de la aplicación en un entorno de producción.
 
 ## Herramientas ⚒️
 

@@ -2,52 +2,55 @@
 Sistema de Información que permitirá optimizar el registro y control de empleados, clientes, transacciones y productos financieros.
 
 ## Pre-requisitos de su uso.🗒️🖋️
-Servidor y almacenamiento: Se debe contar con un servidor dedicado o en la nube con capacidad suficiente para alojar la base de datos y la aplicación.
++ Servidor y almacenamiento: Se debe contar con un servidor dedicado o en la nube con capacidad suficiente para alojar la base de datos y la aplicación.
 
-Base de datos: Se debe seleccionar un gestor de base de datos relacional, como MySQL o PostgreSQL, y definir la estructura de datos según las necesidades del sistema.
++ Base de datos: Se debe seleccionar un gestor de base de datos relacional, como MySQL o PostgreSQL, y definir la estructura de datos según las necesidades del sistema.
 
-Lenguaje de programación: El backend se desarrollará en Java con Spring Boot, por lo que es necesario contar con un entorno de desarrollo compatible, como IntelliJ IDEA o Eclipse.
++ Lenguaje de programación: El backend se desarrollará en Java con Spring Boot, por lo que es necesario contar con un entorno de desarrollo compatible, como IntelliJ IDEA o Eclipse.
 
-Contenedorización y despliegue: Es necesario instalar Docker y Kubernetes para la gestión y escalabilidad de la aplicación en un entorno de producción.
++ Contenedorización y despliegue: Es necesario instalar Docker y Kubernetes para la gestión y escalabilidad de la aplicación en un entorno de producción.
 
 ## Herramientas ⚒️
 
-### HTML: https://developer.mozilla.org/es/docs/Web/HTML - Código para estructurar y desplegar una página web.
-### CSS: https://www.hostinger.es/tutoriales/que-es-css - Lenguaje que maneja el diseño y presentación de las páginas web.
-### JavaScript: https://lenguajejs.com/javascript/ - Lenguaje de programación interpretado, dialecto del estándar ECMAScript.
-### PHP: https://www.php.net/ - Lenguaje de programación que permite el desarrollo web o aplicaciones web dinámicas.
-### Laravel: https://laravel.com/ - Framework de código abierto para desarrollar aplicaciones y servicios web.
+### Java con Spring Boot
+### IntelliJ IDEA o Eclipse
+### Lombok
+### MySQL
+### Docker
+### Kubernetes
 
 ## Guia de Uso 🖥️🖱️
 
 Antes de comenzar, asegurarse de tener lo siguiente.
 
-+ Una computadora adaptable.
++ Sistema operativo: Windows 10/11, macOS o Linux
 
-+ Acceso a Internet o a datos móviles.
++ Java JDK 17 o superior
 
-+ Leer el manual de usuario y técnico.
++ Docker y Kubernetes (para despliegue)
+
++ MySQL 8.0 o superior
+
++ Navegador web actualizado (Chrome, Firefox, Edge)
 
 ## Autores ✒️
 
-+ Carlos Samuel: Programación y lógica.
++ Angel Josue Rodriguez Aleman - RA232736 (Programador)                    
++ Gabriela Maria Flores Noguera - FN230267 (Diseñadora)
++ Carlos Alejandro Hernández González - HG231549 (Programador) 
 
-+ Carlos Ostorga: Programación, diseño y lógica.
-
-+ Angel Josue: Programación, diseño y manuales
-
-+ Diego Ruiz: Programación y diseño.
 
 ## Licencia 🪪
+Este acuerdo de licencia (“Licencia”) establece los términos y condiciones bajo los cuales los usuarios pueden acceder y utilizar el Sistema de Información de la Cooperativa “Marce”
 
-Este proyecto está bajo la licencia Mapali-2023-CompartirIgual 4.0 Internacional que establece:
++ Esta licencia otorga a El Usuario un derecho no exclusivo, intransferible y limitado para utilizar El Software únicamente para los fines operativos de la cooperativa.
 
-Que usted es libre de: Compartir--Copiar el material en cualquier medio o formato adaptable a construir a partir del material, la licencia no puede revocar en tanto usted siga los términos de la licencia.
++ No se permite la reproducción, distribución o modificación del software sin autorización expresa de la Cooperativa Marce.
+  
++ El Usuario no puede Copiar, modificar o distribuir El Software sin previa autorización por escrito.
++ El Usuario no puede Transferir esta licencia a terceros sin el consentimiento expreso de la Cooperativa Marce.
 
 ## Enlaces de Interés 🔍
-
-+ Manual de Usuario: https://www.canva.com/design/DAFf1iLjUUU/YpRxx50IG8BTKvs1ruPwSw/edit?utm_content=DAFf1iLjUUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-+ Manual Técnico: https://www.canva.com/design/DAFf8ZyUw4w/v_y07J8ARWffpfEWA2Rwzg/edit?utm_content=DAFf8ZyUw4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-+ Documentación: https://docs.google.com/document/d/16_O5hOcUyU_LkTVGCKDaFrIku8t7G2k7/edit?usp=sharing&ouid=118176096713363642499&rtpof=true&sd=true
++ Spring Boot: https://spring.io/projects/spring-boot/
++ Docker Hub: https://hub.docker.com/
++ Kubernetes: https://kubernetes.io/es/

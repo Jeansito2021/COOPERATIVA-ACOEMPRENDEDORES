@@ -15,7 +15,7 @@ Sistema de Información que permitirá optimizar el registro y control de emplea
 ### Java con Spring Boot
 ### IntelliJ IDEA o Eclipse
 ### Lombok
-### MySQL
+### H2 (Base de Datos en Memoria)
 ### Docker
 ### Kubernetes
 

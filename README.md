@@ -1,4 +1,4 @@
-# Cooperativa-Marce 💱
+# COOPERATIVA-ACOEMPRENDEDORES 💱
 Sistema de Información que permitirá optimizar el registro y control de empleados, clientes, transacciones y productos financieros.
 
 ## Pre-requisitos de su uso.🗒️🖋️

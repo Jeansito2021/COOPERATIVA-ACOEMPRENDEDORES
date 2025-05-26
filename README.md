@@ -10,6 +10,8 @@ Sistema de Información que permitirá optimizar el registro y control de emplea
 
 + Contenedorización y despliegue: Es necesario instalar Docker y Kubernetes para la gestión y escalabilidad de la aplicación en un entorno de producción.
 
++ Para ver el proyecto primero descargalo luego descomprimelo y luego abre el proyecto en Intellij IDEA
+
 ## Herramientas ⚒️
 
 ### Java con Spring Boot
